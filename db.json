@@ -1,9 +1,5 @@
 {
-  "get": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "posts":[{"zipName":"Gladstone (GLNG)","download_options":{"downloadable_data":[{"type":"csv","data":[{"time_Stamp":"2019-03-06T02:34:54Z","PEAK_PF_HRS":0}],"csvName":"GT0574_PP_EVENTS_DATA","removeCol":[],"cardId":"GT0574"},{"cardID":"GT0574","chartName":"GT0574_PP_EVENTS_DATA","type":"d3","elmID":"eventBarChart"}]},"cardId":"GT0574"}],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
